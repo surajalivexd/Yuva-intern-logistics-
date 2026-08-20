@@ -62,24 +62,7 @@ Central and North have higher total shipment volumes compared with some other re
 Shipment volume changes considerably from month to month.
 Transportation costs vary across different vehicle types, but vehicle type alone does not explain all cost differences.
 Shipments taking more than 7 days were classified as delayed for the analysis.
-📁 Project Structure
-logistics-week3-analysis/
-│
-├── README.md
-├── logistics_analysis.py
-├── requirements.txt
-│
-├── data/
-│   └── logistics_data.csv
-│
-└── visualizations/
-    ├── delivery_time_distribution.png
-    ├── shipment_volume_by_region.png
-    ├── transportation_cost_vs_distance.png
-    ├── delivery_time_vs_distance.png
-    ├── cost_by_vehicle_type.png
-    ├── monthly_shipment_volume.png
-    └── correlation_heatmap.png
+
 ▶️ How to Run
 
 Clone or download the repository and install the required libraries:
